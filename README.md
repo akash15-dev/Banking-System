@@ -68,17 +68,6 @@ This project helped me strengthen my Python skills and apply programming logic t
 
 ---
 
-## 📬 Contact
-
-**Akash**  
-🔗 [LinkedIn](https://www.linkedin.com)  
-📧 akash.sfdc015@gmail.com  
-
-> 💬 Got feedback, ideas, or suggestions? I’d love to hear from you!  
-> 🚀 Interested in building cool projects together? Let’s collaborate!
-
----
-
 ## 📂 Project Structure
 
 ```bash
@@ -88,3 +77,26 @@ banking-system/
 ├── main.py              # Main driver script
 ├── README.md            # Project overview 
 └── screenshots/         # Screenshots of app UI
+
+```
+---
+
+## 🙌 Contributing
+
+💡 If you have any suggestions, feel free to open an issue or ping me — I'm happy to collaborate and improve this project together!
+
+---
+ 
+## 📬 Contact
+
+**Akash**  
+🔗 [LinkedIn](https://www.linkedin.com)  
+📧 akash.sfdc015@gmail.com  
+
+> 🚀 Interested in building cool projects together? Let’s collaborate!
+
+---
+
+🛠️ Built with passion, caffeine ☕, and lots of ❤️  
+by Akash 🚀
+
