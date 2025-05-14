@@ -36,7 +36,7 @@ This project mimics a basic banking system using Python. It demonstrates how fil
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots  
 
 ### 🔐 Login Page
 ![Login](screenshots/startingmenu.png)
