@@ -12,7 +12,7 @@ A **simple, menu-driven Banking System** built using Python. The project allows 
 - [Contact](#contact)
 - [Project Structure](#project-structure)       
  
----     
+---        
  
 ## 📖 About the Project
 
