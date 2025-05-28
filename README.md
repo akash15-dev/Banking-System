@@ -8,7 +8,7 @@ A **simple, menu-driven Banking System** built using Python. The project allows 
 - [About the Project](#about-the-project)  
 - [Features](#features)
 - [Screenshots](#screenshots) 
-- [What I Learned](#what-i-learned)     
+- [What I Learned](#what-i-learned)      
 - [Contact](#contact)    
 - [Project Structure](#project-structure)       
     
