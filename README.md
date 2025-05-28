@@ -3,7 +3,7 @@
 A **simple, menu-driven Banking System** built using Python. The project allows users to perform core banking operations like creating accounts, deposits, withdrawals, fund transfers, interest calculation, and more — all using a terminal interface and `.txt` files for data storage.
 
 ---
-
+  
 ## 📌 Table of Contents
 - [About the Project](#about-the-project)  
 - [Features](#features)
