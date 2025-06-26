@@ -15,7 +15,7 @@ A **simple, menu-driven Banking System** built using Python. The project allows 
 ---          
     
 ## 📖 About the Project  
-
+ 
 This project mimics a basic banking system using Python. It demonstrates how file handling can simulate real-time banking logic without a database. All data is stored in two text files — `accounts.txt` and `transactions.txt`.
  
 ---
